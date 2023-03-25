@@ -1,0 +1,15 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "description": "say hello",
+            "isDone": false
+        },
+        {
+            "id": 2,
+            "description": "say hello again",
+            "isDone": false
+        }
+    ],
+    "users": []
+}
